@@ -1,8 +1,10 @@
 ![포스터4 (1)](https://github.com/qp-official-org/.github/assets/105588857/73562686-1255-4536-9c56-d0b84352ffdd)
 ![큐피_포스터3](https://github.com/qp-official-org/.github/assets/105588857/69662879-3df7-4b61-b37a-16ea6a15f80a)
 
+<div align = "center" style="display:flex">
 <img width="307" alt="image" src="https://github.com/qp-official-org/.github/assets/105588857/868e4f29-5084-4ffa-912e-4275306524d1">
-<img width="602" alt="image" src="https://github.com/qp-official-org/.github/assets/105588857/50f31194-41f4-4134-9a11-359556844331">
+<img width="602" alt="image" src="https://github.com/qp-official-org/.github/assets/105588857/50f31194-41f4-4134-9a11-359556844331">  
+</div>
 
 
 
